@@ -19,6 +19,8 @@ Hi, i'm [Mahfujur Rahman](https://portfolio-mahfujur-rahman.web.app/), a passion
 
 <br />
 
+## 📈 My Github Stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MahfujAhsan&show_icons=true&theme=cobalt" alt="MahfujAhsan" />
 
 📊 **This week i spent my time on:**
@@ -33,8 +35,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <a href="https://portfolio-mahfujur-rahman.web.app/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-## 📈 My Github Stats
 
 **Languages and Tools:** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
