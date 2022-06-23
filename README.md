@@ -8,11 +8,11 @@
 
 <br />
 
-hi, i'm [Mahfujur Rahman](https://abhishknads.me/), a passionate self-taught MERN Stack Developer and a from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Mahfujur Rahman](https://portfolio-mahfujur-rahman.web.app/), a passionate self-taught MERN Stack Developer and a from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/MahfujAhsan/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 ask me about anything, i am happy to help; [Email](mailto:abhishek.naidu@cred.club) :)
+- 💬 ask me about anything, i am happy to help; [Email](mailto:mahfujur.rahman1@outlook.com) :)
 
 **languages and tools:**  
 
