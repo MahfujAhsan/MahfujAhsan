@@ -1,4 +1,7 @@
-## Hey There, 
+## Hello, 
+### Who am I?
+<a href="https://portfolio-mahfujur-rahman.web.app/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+Find me on, 
 <a href="https://www.facebook.com/AhsaanMahfuj">
   <img align="left" alt="Mahfujur Rahman | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/300px-Facebook_icon_2013.svg.png" />
 </a>
@@ -21,19 +24,6 @@ Hi, i'm [Mahfujur Rahman](https://portfolio-mahfujur-rahman.web.app/), a passion
 ## 📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MahfujAhsan&show_icons=true&theme=cobalt" alt="MahfujAhsan" />
-
-📊 **This week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   4 hrs 53 mins   ████████████░░░░░░░░░░░░░   47.37 %
-CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
-
-<a href="https://portfolio-mahfujur-rahman.web.app/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 **Languages and Tools:** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
