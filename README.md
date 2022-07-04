@@ -19,7 +19,7 @@
 
 </p>
 
-Hi, i'm [Mahfujur Rahman](https://portfolio-mahfujur-rahman.web.app/), a passionate self-taught MERN Stack Developer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. 💬 Ask me about anything, i am happy to help; [Email](mailto:mahfujur.rahman1@outlook.com) :)
+Hi, i'm [Mahfujur Rahman](https://portfolio-mahfujur-rahman.web.app/), a passionate self-taught Programmer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. 💬 Ask me about anything, i am happy to help; [Email](mailto:mahfujur.rahman1@outlook.com) :)
 
 <br />
 
