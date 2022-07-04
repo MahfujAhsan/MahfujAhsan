@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/6JWbdTx/By-failing-to-prepare-you-are-preparing-to-fail-Be.png" width="100%" height="100%">
+<img src="https://i.ibb.co/PDXrsKK/By-failing-to-prepare-you-are-preparing-to-fail-Be.png" width="100%" height="100%">
 
 ## <code>Find me on:</code>
 
