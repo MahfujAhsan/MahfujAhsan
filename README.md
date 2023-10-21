@@ -31,6 +31,10 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 &nbsp; &nbsp;
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 &nbsp; &nbsp;
+<img width="40" height="40" src="https://i.ibb.co/qm6J2DY/Screenshot-1.png">
+&nbsp; &nbsp;
+<img width="40" height="40" src="https://i.ibb.co/Cnt7my1/ezgif-com-gif-maker-removebg-preview.jpg">
+&nbsp; &nbsp;
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 &nbsp; &nbsp;
 <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201">
@@ -38,10 +42,6 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 <img width="40" height="40" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png">
 &nbsp; &nbsp;
 <img width="40" height="40" src="https://mikevpeeren.nl/_next/static/media/next_logo.79d7b4bd.png">
-&nbsp; &nbsp;
-<img width="40" height="40" src="https://i.ibb.co/qm6J2DY/Screenshot-1.png">
-&nbsp; &nbsp;
-<img width="40" height="40" src="https://i.ibb.co/Cnt7my1/ezgif-com-gif-maker-removebg-preview.jpg">
 </p>
 
 ## <code>My GitHub Stats:</code>
