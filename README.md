@@ -31,9 +31,6 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 
 <img align="left" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-
-<img align="right" height="48" src="https://i.ibb.co/2PnJnkd/heroku-logo-stroke-gradient-transparent.png">
-
 <img align="left" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
 <img align="right" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
@@ -42,7 +39,7 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 
 <img align="right" height="48" src="<img align="right" height="48" src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png">">
 
-<img align="right" height="48" src="https://res.cloudinary.com/practicaldev/image/fetch/s--6LfYwHeK--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1608/0f93b179-76bf-4ee7-a838-e8222fbef062.png">
+<img align="right" height="48" src="https://res.cloudinary.com/practicaldev/image/fetch/s--6LfYwHeK--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/">
 
 <img align="right" height="48" src="https://i.ibb.co/qm6J2DY/Screenshot-1.png">
 
