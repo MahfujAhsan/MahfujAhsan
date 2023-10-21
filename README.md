@@ -30,13 +30,13 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 ## <code>Languages and Tools:</code>
 
 <img align="left" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<img align="left" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
-<img align="right" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
 <img align="right" height="48" src="https://i.ibb.co/2PnJnkd/heroku-logo-stroke-gradient-transparent.png">
 
-<img align="left" height="48" src="https://ih1.redbubble.net/image.2231318471.7988/pp,504x498-pad,600x600,f8f8f8.jpg">
+<img align="left" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+
+<img align="right" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
 <img align="right" height="48" src="https://i.ibb.co/qm6J2DY/Screenshot-1.png">
 
