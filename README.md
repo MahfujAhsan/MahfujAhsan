@@ -10,11 +10,11 @@
 
 <p align="center" width="100%">
    <a align="right" width="33.33%" href="https://www.linkedin.com/in/mahfujurahman/">
-  <img align="center" alt="Mahfujur's LinkedIn" width="48px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Mahfujur's LinkedIn" width="48px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
-<a align="right" width="33.33%" href="https://twitter.com/mahfujrahm">
-  <img align="right" alt="Mahfujur Rahman | Twitter" width="48px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a align="right" width="33.33%" href="https://mahfujur-rahman.vercel.app/">
+  <img align="right" alt="Mahfujur Rahman | Twitter" width="48px" src="https://thumbs.dreamstime.com/b/programmer-icon-single-avatar-vector-illustration-262823910.jpg" />
 </a>
 
 </p>
