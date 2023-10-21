@@ -19,7 +19,7 @@
 
 </p>
 
-Hi, i'm [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), a passionate self-taught Programmer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. 💬 Ask me about anything, i am happy to help; [Email](mailto:mahfujur.rahman1@outlook.com) :)
+Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & expanding horizons of tech world from Bangladesh. I build full stack **Web Software Solution** maintaining accessiblity, high-performance, code quality & scalability. 💬 Ask me about anything, i am happy to help; [Email](mailto:mahfujur.rahman1@outlook.com) :)
 
 <br />
 
@@ -32,7 +32,9 @@ Hi, i'm [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), a passionate sel
 <img align="left" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <img align="left" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
-<img align="left" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img align="right" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+
+<img align="right" height="48" src="https://i.ibb.co/2PnJnkd/heroku-logo-stroke-gradient-transparent.png">
 
 <img align="left" height="48" src="https://ih1.redbubble.net/image.2231318471.7988/pp,504x498-pad,600x600,f8f8f8.jpg">
 
