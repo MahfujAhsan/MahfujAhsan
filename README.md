@@ -2,23 +2,22 @@
 
 ## <code>Find me on:</code>
 
-<p float="left">
+
+<p align="center">
     <a  href="https://www.facebook.com/AhsaanMahfuj">
   <img width="40" alt="Mahfujur Rahman | Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/300px-Facebook_icon_2013.svg.png" />
 </a>
-</p>
-
-<p align="center">
+    &nbsp; &nbsp; &nbsp; &nbsp;
    <a  href="https://www.linkedin.com/in/mahfujurahman/">
   <img width="40" alt="Mahfujur's LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174057.png" />
 </a>
-</p>
-
-<p float="right">
-<a  href="https://mahfujur-rahman.vercel.app/">
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <a  href="https://mahfujur-rahman.vercel.app/">
   <img width="40" alt="Mahfujur Rahman | Twitter" width="40px" src="https://thumbs.dreamstime.com/b/programmer-icon-single-avatar-vector-illustration-262823910.jpg" />
 </a>
 </p>
+
+
 
 
 
