@@ -21,7 +21,7 @@
 
 
 
-Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & expanding horizons of tech world from Bangladesh. I build full stack **Web Software Solution** maintaining accessiblity, high-performance, code quality & scalability. 💬 Ask me about anything, i am happy to help; [Email](mailto:mahfujur.rahman1@outlook.com) :)
+Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & expanding horizons of tech world from Bangladesh. I build full stack **Web Software Solution** maintaining accessiblity, high-performance, code quality & scalability. 💬 Ask me about anything, i am happy to help, Say [Hello](mailto:mahfujur.rahman1@outlook.com) :)
 
 <br />
 
