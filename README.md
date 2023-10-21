@@ -37,7 +37,7 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 
 <img align="right" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201">
 
-<img align="right" height="48" src="<img align="right" height="48" src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png">">
+<img align="right" height="48" src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png">
 
 <img align="right" height="48" src="https://res.cloudinary.com/practicaldev/image/fetch/s--6LfYwHeK--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/">
 
