@@ -1,4 +1,4 @@
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1609713657411/GopQGAEo3.jpeg" width="100%" height="40%">
+<img src="https://i.ibb.co/1bW4W2P/talk-is-cheap-show-me-the-code-linus-torvalds.jpg" width="100%" height="40%">
 
 ## <code>Find me on:</code>
 
