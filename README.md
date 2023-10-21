@@ -44,4 +44,4 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 
 ## <code>My GitHub Stats:</code>
 
-<p align="center"> <img width="80" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahfujAhsan&show_icons=true&theme=radical" alt="MahfujAhsan" />
+<p align="center"> <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahfujAhsan&show_icons=true&theme=radical" alt="MahfujAhsan" />
