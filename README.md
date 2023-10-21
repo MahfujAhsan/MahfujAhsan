@@ -39,7 +39,7 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 &nbsp; &nbsp;
 <img width="40" height="40" src="https://mikevpeeren.nl/_next/static/media/next_logo.79d7b4bd.png">
 &nbsp; &nbsp;
-<img width="40" height="40" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png">
+<img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prisma_icon_130234.png">
 &nbsp; &nbsp;
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </p>
