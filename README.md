@@ -37,9 +37,9 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 
 <img align="right" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201">
 
-<img align="right" height="48" src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png">
+<img align="right" height="48" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png">
 
-<img align="right" height="48" src="https://res.cloudinary.com/practicaldev/image/fetch/s--6LfYwHeK--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/">
+<img align="right" height="48" src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp">
 
 <img align="right" height="48" src="https://i.ibb.co/qm6J2DY/Screenshot-1.png">
 
