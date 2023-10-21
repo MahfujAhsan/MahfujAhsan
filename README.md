@@ -25,7 +25,7 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 
 ## <code>My GitHub Stats:</code>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MahfujAhsan&show_icons=true&theme=cobalt" alt="MahfujAhsan" />
+<p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahfujAhsan&show_icons=true&theme=radical" alt="MahfujAhsan" />
 
 ## <code>Languages and Tools:</code>
 
@@ -44,8 +44,3 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 <img align="right" height="40" src="https://i.ibb.co/qm6J2DY/Screenshot-1.png">
 
 <img align="right" height="40" src="https://i.ibb.co/Cnt7my1/ezgif-com-gif-maker-removebg-preview.jpg">
-
-
-<br />
-## <code>Coding Stats:</code>
- <p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahfujAhsan&show_icons=true&theme=radical" alt="MahfujAhsan" />
