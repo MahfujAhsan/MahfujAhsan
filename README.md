@@ -46,6 +46,6 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 <img align="right" height="40" src="https://i.ibb.co/Cnt7my1/ezgif-com-gif-maker-removebg-preview.jpg">
 
 
-
-
- <p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahfujAhsan&layout=compact" alt="MahfujAhsan" />
+<br />
+## <code>Coding Stats:</code>
+ <p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahfujAhsan&show_icons=true&theme=radical" alt="MahfujAhsan" />
