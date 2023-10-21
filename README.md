@@ -42,9 +42,7 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 
 <img align="right" height="48" src="https://i.ibb.co/Cnt7my1/ezgif-com-gif-maker-removebg-preview.jpg">
 
-<img align="right" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
-<img align="right" height="48" src="https://i.ibb.co/2PnJnkd/heroku-logo-stroke-gradient-transparent.png">
 
 
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahfujAhsan&layout=compact" alt="MahfujAhsan" />
