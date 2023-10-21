@@ -39,7 +39,7 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 
 <img align="right" height="48" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png">
 
-<img align="right" height="48" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png">
+<img align="right" height="48" src="https://mikevpeeren.nl/_next/static/media/next_logo.79d7b4bd.png">
 
 <img align="right" height="48" src="https://i.ibb.co/qm6J2DY/Screenshot-1.png">
 
