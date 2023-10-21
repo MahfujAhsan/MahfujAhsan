@@ -48,4 +48,4 @@ Hi, It's [Mahfujur Rahman](https://mahfujur-rahman.vercel.app/), wandering & exp
 
 
 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahfujAhsan&layout=compact" alt="MahfujAhsan" />
+ <p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahfujAhsan&layout=compact" alt="MahfujAhsan" />
