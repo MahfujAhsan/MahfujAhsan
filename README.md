@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/1bW4W2P/talk-is-cheap-show-me-the-code-linus-torvalds.jpg" width="100%" height="40%">
+<img src="https://i.ibb.co/MZsKy3y/talk-is-cheap-show-me-the-code-linus-torvalds-1.jpg" width="100%" height="40%">
 
 ## <code>Find me on:</code>
 
